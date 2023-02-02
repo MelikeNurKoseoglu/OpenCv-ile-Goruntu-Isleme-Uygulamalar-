@@ -1,6 +1,6 @@
 # OpenCv Uygulamaları
 
-Repository içerisinde opencv , numpy, matplotlib kütüphanlerinden yardım alınarak yazılmış görüntü işleme uygulamalrı bulunmaktadır.
+Repository içerisinde opencv , numpy, matplotlib kütüphanlerinden yardım alınarak yazılmış görüntü işleme uygulamaları bulunmaktadır.
 Repository içerisindeki uygulamalar klasöründe kodlar, resimler klasöründe kodlarda gerekli olan resimler verilmiştir.
 Repositorye eklenecek çeşitli uygulamalar da olacaktır.
 Faydalı olması dileğiyle 
